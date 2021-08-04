@@ -1,1 +1,1 @@
-Exploratory Data Analysis BigMart Sales
+Analysis BigMart Sales Based On Outlet Type
